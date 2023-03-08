@@ -1,0 +1,9 @@
+// Declaring a variable in TS
+// let myVar: type = value
+const myAwesomeVariable: string = 'So Awesome!';
+
+// Function parameter types
+function square(num) {
+    return num * num;
+}
+

@@ -1,0 +1,1 @@
+// Create a variable called highScore that can be 
